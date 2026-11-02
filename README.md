@@ -4,7 +4,7 @@
 
 ## About Me
 
-AI Engineer building production systems across backend APIs, multi-agent orchestration, semantic pipelines, and observability — deployed on constrained hardware with zero cloud spend. 
+AI Engineer building production systems across backend APIs, multi-agent orchestration, semantic pipelines, and observability that is deployed on constrained hardware with zero cloud spend. 
 
 Background includes eight years in technical operations and sales at **Makro South Africa**, one of Southern Africa's largest retailers. I focus on shipping local-first, production-ready AI systems with explicit contracts, observability, and failure recovery.
 
@@ -49,12 +49,6 @@ Open to **remote AI engineering roles**, **consulting**, or **collaboration** on
 - **Microsoft Surface Accreditation** - ExpertZone/Microsoft (2020)
 - **Microsoft Windows Accreditation** - ExpertZone/Microsoft (2020)
 - **Diploma in Information Technology** - Oval International Computer Education (Completed Dec 2018)
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjps4linux-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e14&title_color=00d4ff&icon_color=00ff88&text_color=c9d1d9" alt="Conrad's GitHub Stats" />
-</div>
 
 ## Connect
 
