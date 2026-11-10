@@ -34,7 +34,7 @@ Open to **remote AI engineering roles**, **consulting**, or **collaboration** on
 | **[documind](https://github.com/cjps4linux-creator/documind)** | AI document intelligence platform with RAG, FastAPI, Celery/Redis workers, pgvector, and faithfulness evaluation harness. | `FastAPI` `RAG` `pgvector` `Celery` `Redis` |
 | **[athena-voice](https://github.com/cjps4linux-creator/athena-voice)** | Real-time speech-to-speech voice agent with WebSocket streaming, server-side VAD, barge-in handling, and sub-2s latency. | `WebSocket` `Whisper` `VAD` `TTS` `LLM` |
 | **[liquid-audio-gui](https://github.com/cjps4linux-creator/liquid-audio-gui)** | CPU-only local voice chat server with browser GUI. Faster-Whisper STT, LM Studio integration, edge-tts, optimized for constrained hardware. | `Faster-Whisper` `LM Studio` `Edge-TTS` `WebSocket` `Gradio` |
-| **[universal-downloader-pro](https://github.com/cjps4linux-creator/universal-downloader-pro)** | Production-grade offline archiver and media downloader with privacy-first tunnel, knowledge pipeline, and batch queue. Public repo, protected main branch. | `Python` `FastAPI` `yt-dlp` `Offline Archive` `Batch Queue` |
+| **[universal-downloader-pro](https://github.com/cjps4linux-creator/universal-downloader-pro)** | Production-grade offline archiver and media downloader with privacy-first tunnel, knowledge pipeline, and batch queue. | `Python` `FastAPI` `yt-dlp` `Offline Archive` `Batch Queue` |
 | **[youtube-audio-ripper](https://github.com/cjps4linux-creator/youtube-audio-ripper)** | Paste a YouTube link, get a FLAC named after the track. Local GUI, no account needed. | `Python` `yt-dlp` `FLAC` `Local GUI` `Audio` |
 
 
