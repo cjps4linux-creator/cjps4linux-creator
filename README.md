@@ -29,13 +29,13 @@ Open to **remote AI engineering roles**, **consulting**, or **collaboration** on
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[corp-recon-engine](https://github.com/cjps4linux-creator/corp-recon-engine)** | Corporate reconnaissance engine for structured data gathering and analysis with hardened workflows. | `Python` `FastAPI` `Automation` `Security` |
-| **[ghost-data-suite](https://github.com/cjps4linux-creator/ghost-data-suite)** | Hardened encrypted web scraping and monitoring stack with Flask + SocketIO, Prometheus metrics, backup/restore, and key rotation. | `Flask` `SocketIO` `Prometheus` `Encryption` |
-| **[documind](https://github.com/cjps4linux-creator/documind)** | AI document intelligence platform with RAG, FastAPI, Celery/Redis workers, pgvector, and faithfulness evaluation harness. | `FastAPI` `RAG` `pgvector` `Celery` `Redis` |
-| **[athena-voice](https://github.com/cjps4linux-creator/athena-voice)** | Real-time speech-to-speech voice agent with WebSocket streaming, server-side VAD, barge-in handling, and sub-2s latency. | `WebSocket` `Whisper` `VAD` `TTS` `LLM` |
-| **[liquid-audio-gui](https://github.com/cjps4linux-creator/liquid-audio-gui)** | CPU-only local voice chat server with browser GUI. Faster-Whisper STT, LM Studio integration, edge-tts, optimized for constrained hardware. | `Faster-Whisper` `LM Studio` `Edge-TTS` `WebSocket` `Gradio` |
-| **[universal-downloader-pro](https://github.com/cjps4linux-creator/universal-downloader-pro)** | Production-grade offline archiver and media downloader with privacy-first tunnel, knowledge pipeline, and batch queue. | `Python` `FastAPI` `yt-dlp` `Offline Archive` `Batch Queue` |
-| **[youtube-audio-ripper](https://github.com/cjps4linux-creator/youtube-audio-ripper)** | Paste a YouTube link, get a FLAC named after the track. Local GUI, no account needed. | `Python` `yt-dlp` `FLAC` `Local GUI` `Audio` |
+| **[Corp Recon Engine](https://github.com/cjps4linux-creator/corp-recon-engine)** | Corporate reconnaissance engine for structured data gathering and analysis with hardened workflows. | `Python` `FastAPI` `Automation` `Security` |
+| **[Ghost Data Suite](https://github.com/cjps4linux-creator/ghost-data-suite)** | Hardened encrypted web scraping and monitoring stack with Flask + SocketIO, Prometheus metrics, backup/restore, and key rotation. | `Flask` `SocketIO` `Prometheus` `Encryption` |
+| **[Documind](https://github.com/cjps4linux-creator/documind)** | AI document intelligence platform with RAG, FastAPI, Celery/Redis workers, pgvector, and faithfulness evaluation harness. | `FastAPI` `RAG` `pgvector` `Celery` `Redis` |
+| **[Athena Voice](https://github.com/cjps4linux-creator/athena-voice)** | Real-time speech-to-speech voice agent with WebSocket streaming, server-side VAD, barge-in handling, and sub-2s latency. | `WebSocket` `Whisper` `VAD` `TTS` `LLM` |
+| **[Liquid Audio Gui](https://github.com/cjps4linux-creator/liquid-audio-gui)** | CPU-only local voice chat server with browser GUI. Faster-Whisper STT, LM Studio integration, edge-tts, optimized for constrained hardware. | `Faster-Whisper` `LM Studio` `Edge-TTS` `WebSocket` `Gradio` |
+| **[Universal Downloader Pro](https://github.com/cjps4linux-creator/universal-downloader-pro)** | Production-grade offline archiver and media downloader with privacy-first tunnel, knowledge pipeline, and batch queue. | `Python` `FastAPI` `yt-dlp` `Offline Archive` `Batch Queue` |
+| **[Youtube Audio Ripper](https://github.com/cjps4linux-creator/youtube-audio-ripper)** | Paste a YouTube link, get a FLAC named after the track. Local GUI, no account needed. | `Python` `yt-dlp` `FLAC` `Local GUI` `Audio` |
 
 
 ## Currently Exploring
