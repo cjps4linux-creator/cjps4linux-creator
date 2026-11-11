@@ -30,7 +30,7 @@ Open to **remote AI engineering roles**, **consulting**, or **collaboration** on
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[Corp Recon Engine](https://github.com/cjps4linux-creator/corp-recon-engine)** | Corporate reconnaissance engine for structured data gathering and analysis with hardened workflows. | `Python` `FastAPI` `Automation` `Security` |
-| **[GhostDataSuite](https://github.com/cjps4linux-creator/GhostDataSuite)** | Hardened encrypted web scraping and monitoring stack with Flask + SocketIO, Prometheus metrics, backup/restore, and key rotation. | `Flask` `SocketIO` `Prometheus` `Encryption` |
+| **[Ghost Data Suite](https://github.com/cjps4linux-creator/GhostDataSuite)** | Hardened encrypted web scraping and monitoring stack with Flask + SocketIO, Prometheus metrics, backup/restore, and key rotation. | `Flask` `SocketIO` `Prometheus` `Encryption` |
 | **[Documind](https://github.com/cjps4linux-creator/documind)** | AI document intelligence platform with RAG, FastAPI, Celery/Redis workers, pgvector, and faithfulness evaluation harness. | `FastAPI` `RAG` `pgvector` `Celery` `Redis` |
 | **[Athena Voice](https://github.com/cjps4linux-creator/athena-voice)** | Real-time speech-to-speech voice agent with WebSocket streaming, server-side VAD, barge-in handling, and sub-2s latency. | `WebSocket` `Whisper` `VAD` `TTS` `LLM` |
 | **[Liquid Audio Gui](https://github.com/cjps4linux-creator/liquid-audio-gui)** | CPU-only local voice chat server with browser GUI. Faster-Whisper STT, LM Studio integration, edge-tts, optimized for constrained hardware. | `Faster-Whisper` `LM Studio` `Edge-TTS` `WebSocket` `Gradio` |
