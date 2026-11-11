@@ -2,13 +2,16 @@
   <img src="./assets/header.svg" width="100%" alt="Conrad CJ Wilson - Applied AI Engineer"/>
 </div>
 
-## About Me
+Full Stack Engineer building production systems across backend APIs, multi-agent orchestration, semantic pipelines, and observability.
 
-AI Engineer building production systems across backend APIs, multi-agent orchestration, semantic pipelines, and observability that is deployed on constrained hardware with zero cloud spend. 
+My first words were "motherboard",
+I am driven by curiosity and passion,
+and I'm very passionate about what I do.
 
-Background includes eight years in technical operations and sales at **Makro South Africa**, one of Southern Africa's largest retailers. I focus on shipping local-first, production-ready AI systems with explicit contracts, observability, and failure recovery.
-
-Open to **remote AI engineering roles**, **consulting**, or **collaboration** on local-first AI infrastructure.
+Background includes about a decade in technical operations and sales.
+I currently focus on shipping local-first, production-ready AI systems 
+with explicit contracts, observability, and failure recovery.
+However open to **remote AI engineering roles**, **consulting**, or **collaboration** on local-first AI infrastructure.
 
 ## Tech Stack
 
@@ -40,11 +43,11 @@ Open to **remote AI engineering roles**, **consulting**, or **collaboration** on
 
 ## Currently Exploring
 
-- 🧠 **Large Language Models (LLMs)** & Agentic Systems
-- 🔎 **Retrieval-Augmented Generation (RAG)** & Evaluation Frameworks
-- ☁️ **Local-first AI Infrastructure** & MLOps
-- ⚡ **High-Performance Backend Engineering**
-- 🤖 **Multi-Agent Orchestration** & Contract-Driven Design
+- **Large Language Models (LLMs)** & Agentic Systems
+- **Retrieval-Augmented Generation (RAG)** & Evaluation Frameworks
+- **Local-first AI Infrastructure** & MLOps
+- **High-Performance Backend Engineering**
+- **Multi-Agent Orchestration** & Contract-Driven Design
 
 ## Achievements & Certifications
 
